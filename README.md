@@ -35,17 +35,17 @@ Over the years, I've had the privilege of building solutions across a wide range
 ![Ignite UI](https://img.shields.io/badge/Ignite--UI-DD1100?logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadroman404&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadroman404&layout=compact&theme=radical&include_all_commits=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=haiderali-codes&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali-codes&layout=compact&theme=radical&include_all_commits=true&count_private=true)
 
 ## 🔥 Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadroman404&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=haiderali404&theme=radical)](https://git.io/streak-stats)
 
 ## 🌱 Contribution Graph
-[![Mohid's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=muhammadroman404&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohid's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=haiderali-codes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadroman404&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=haiderali-codes&color=brightgreen)
 
 ## 💬 My Fav Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -72,4 +72,4 @@ Over the years, I've had the privilege of building solutions across a wide range
 </p>
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadroman404&theme=radical&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=haiderali-codes&theme=radical&column=7)

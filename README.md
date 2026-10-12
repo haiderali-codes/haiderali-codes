@@ -42,7 +42,7 @@ Over the years, I've had the privilege of building solutions across a wide range
 [![GitHub Streak](https://streak-stats.demolab.com/?user=haiderali404&theme=radical)](https://git.io/streak-stats)
 
 ## 🌱 Contribution Graph
-[![Mohid's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=haiderali-codes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Haider's github activity graph](https://github-readme-activity-graph.vercel.app//graph?username=haiderali-codes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=haiderali-codes&color=brightgreen)
